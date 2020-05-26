@@ -1,8 +1,9 @@
 
 
-## Tài liệu chi tiết xem ở file BaoCaoCSDL_FunnySurvey
-# Đại học Quốc gia Hà Nội
-# Trường Đại học Công nghệ
+# Tài liệu chi tiết xem ở file BaoCaoBTL_HeThong_FunnySurvey.pdf
+
+## Đại học Quốc gia Hà Nội
+## Trường Đại học Công nghệ
  ---------------------
 
 ## BÁO CÁO BÀI TẬP LỚN
