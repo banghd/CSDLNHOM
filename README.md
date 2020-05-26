@@ -1,9 +1,9 @@
-                                            # Đại học Quốc gia Hà Nội
-                                            # Trường Đại học Công nghệ
-                                              ---------------------
-                                            <img src="https://imgur.com/e3GtcAN">
+# Đại học Quốc gia Hà Nội
+# Trường Đại học Công nghệ
+ ---------------------
+<img src="https://imgur.com/e3GtcAN">
 
-                                            ## BÁO CÁO BÀI TẬP LỚN
+## BÁO CÁO BÀI TẬP LỚN
 
 ## Môn: Cơ sở dữ liệu - INT2207 1
 ## ĐỀ TÀI: Xây dựng website khảo sát nhanh – Funny Survey 
